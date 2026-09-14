@@ -51,15 +51,6 @@ A database-driven URL shortening application that:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fardeenakh0023&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fardeenakh0023" alt="GitHub Streak" height="165"/>
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
